@@ -158,6 +158,14 @@
               "description": "",
               "icon": "/assets/favicon_1756696424363.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756696467811_j2k4jj13p",
+              "title": "UPS服务网点",
+              "href": "https://www.ups.com/dropoff?loc=en_US",
+              "description": "You can schedule a one-time pickup, set up a recurring pickup, or find a convenient drop-off location. Whatever works for you.",
+              "icon": "/assets/favicon_1756696455008.png",
+              "enabled": true
             }
           ]
         },
