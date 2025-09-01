@@ -190,6 +190,14 @@
               "description": "访问 ebilling.dhl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ebilling.dhl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756696698474_yyyizrog6",
+              "title": "DHL customs duty",
+              "href": "https://mybill.dhl.com/pp/",
+              "description": "访问 mybill.dhl.com",
+              "icon": "/assets/favicon_1756696620501.png",
+              "enabled": true
             }
           ]
         },
