@@ -102,6 +102,14 @@
               "description": "访问 www.ups.com",
               "icon": "/assets/favicon_1756692493072.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756692517434_5puwiufnp",
+              "title": "燃油附加费 | FedEx 中国",
+              "href": "https://www.fedex.com/zh-cn/shipping/surcharges.html",
+              "description": "了解 中国 需收取的燃油附加费、增强安全性费用和任何其他托运附加费。",
+              "icon": "/assets/favicon_1756692511998.ico",
+              "enabled": true
             }
           ]
         },
