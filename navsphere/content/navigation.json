@@ -311,6 +311,14 @@
               "description": "访问 query.customs.gov.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=query.customs.gov.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1756698271885_q2rdnrdrw",
+              "title": "报关归类",
+              "href": "https://hscode.macld.com/",
+              "description": "访问 hscode.macld.com",
+              "icon": "/assets/favicon_1756698259466.png",
+              "enabled": true
             }
           ]
         },
