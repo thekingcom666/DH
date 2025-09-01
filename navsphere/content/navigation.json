@@ -489,6 +489,14 @@
               "description": "访问 dev.spn.globalsellingcommunity.cn",
               "icon": "/assets/favicon_1756697900344.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697927248_5p2wxvvdw",
+              "title": "卖家论坛",
+              "href": "https://sellercentral.amazon.com/seller-forums",
+              "description": "查找有关&ldquo;我要开店&rdquo;问题的答案，并与其他卖家协作。",
+              "icon": "/assets/favicon_1756697920600.png",
+              "enabled": true
             }
           ]
         }
