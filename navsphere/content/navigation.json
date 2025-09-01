@@ -303,6 +303,14 @@
               "description": "访问 online.customs.gov.cn",
               "icon": "/assets/favicon_1756698211077.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698248551_ihc58lhgs",
+              "title": "舱单查询",
+              "href": "http://query.customs.gov.cn/MNFTQ/MQuery.aspx",
+              "description": "访问 query.customs.gov.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=query.customs.gov.cn",
+              "enabled": true
             }
           ]
         },
