@@ -214,6 +214,14 @@
               "description": "访问 paydutytaxes.india.express.dhl.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=paydutytaxes.india.express.dhl.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756696788163_fyya74m94",
+              "title": "UPS在线支付税金",
+              "href": "https://www.ups.com/vn/en/business-solutions/ups-billing.page",
+              "description": "The UPS Billing Centre allows you to view invoices, manage payment methods and pay your bills for existing shipping accounts.",
+              "icon": "/assets/favicon_1756696776213.png",
+              "enabled": true
             }
           ]
         },
