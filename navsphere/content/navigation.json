@@ -321,6 +321,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "ece3d1f5-5e82-4f21-b7dc-64fc85cb6347",
+          "title": "工具应用",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
