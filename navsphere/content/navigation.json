@@ -391,6 +391,14 @@
               "description": "利用全球贸易数据和分析来发展您的业务。利用 TradeAtlas 全面的全球贸易数据库探索国际市场!",
               "icon": "/assets/favicon_1756698619945.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698669174_areg96p3r",
+              "title": "香港海关编码",
+              "href": "https://www.censtatd.gov.hk/tc/index_hs_code.html",
+              "description": "访问 www.censtatd.gov.hk",
+              "icon": "/assets/favicon_1756698660215.png",
+              "enabled": true
             }
           ]
         },
