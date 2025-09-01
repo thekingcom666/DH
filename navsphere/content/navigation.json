@@ -134,6 +134,14 @@
               "description": "使用此页面作为指南，了解您可用的 UPS 运费、运费价格和交货时间。",
               "icon": "/assets/favicon_1756692565727.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756692597096_606mvwprg",
+              "title": "Wwwapps",
+              "href": "https://wwwapps.ups.com/ctc/request?loc=en_CN",
+              "description": "访问 wwwapps.ups.com",
+              "icon": "/assets/favicon_1756692584649.png",
+              "enabled": true
             }
           ]
         },
