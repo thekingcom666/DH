@@ -271,6 +271,14 @@
               "description": "访问 www.51tracking.com",
               "icon": "/assets/favicon_1756692434210.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696894084_ti3k1331y",
+              "title": "美国邮政编码地址",
+              "href": "https://ziplucas.com/index.html",
+              "description": "",
+              "icon": "/assets/favicon_1756696881770.png",
+              "enabled": true
             }
           ]
         }
