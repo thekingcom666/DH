@@ -505,6 +505,14 @@
               "description": "准备好成为亚马逊卖家了吗？ 了解如何吸引数百万买家、借助亚马逊发展您的电商业务以及持续盈利",
               "icon": "/assets/favicon_1756697936780.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756697972325_h1wud03gs",
+              "title": "亿恩网",
+              "href": "https://www.ennews.com/",
+              "description": "访问 www.ennews.com",
+              "icon": "/assets/favicon_1756697956738.png",
+              "enabled": true
             }
           ]
         }
