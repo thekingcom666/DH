@@ -311,6 +311,14 @@
               "description": "Use our postal code lookup for every country around the world. Complete list of zip codes and all administrative divisions for countries.",
               "icon": "/assets/favicon_1756696975072.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697003150_fecvsktdz",
+              "title": "国内国外邮编查询",
+              "href": "https://www.nowmsg.com/",
+              "description": "查询世界各地的邮政编码。可以在这里查询国内和国外城市的邮编。您可以通过城市名称查询邮编，或者通过邮编号码查询对应的城市，还可以在地图上查看邮编所在城市的位置。可以查询美国邮编（ZIP Codes）以及加拿大，日本，澳大利亚，新西兰，欧洲各国（德国，英国，法国，意大利，瑞士，瑞典，西班牙等）的邮政编码",
+              "icon": "/assets/favicon_1756696996227.png",
+              "enabled": true
             }
           ]
         }
