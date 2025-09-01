@@ -407,6 +407,14 @@
               "description": "访问 www.customs.gov.hk",
               "icon": "/assets/favicon_1756698681373.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698708067_af5pbr168",
+              "title": "澳门海关",
+              "href": "https://www.customs.gov.mo/gb/index.html",
+              "description": "访问 www.customs.gov.mo",
+              "icon": "/assets/favicon_1756698699738.png",
+              "enabled": true
             }
           ]
         },
