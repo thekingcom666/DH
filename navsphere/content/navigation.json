@@ -279,6 +279,14 @@
               "description": "",
               "icon": "/assets/favicon_1756696881770.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696918688_8dfpahx7q",
+              "title": "美国地址",
+              "href": "https://www.smarty.com/products/single-address",
+              "description": "Lookup, verify, parse, &amp; standardize addresses for USPS, UPS, FedEx, &amp; data cleansing. Provides address verification or address validation services worldwide.",
+              "icon": "/assets/favicon_1756696905052.ico",
+              "enabled": true
             }
           ]
         }
