@@ -439,6 +439,14 @@
               "description": "",
               "icon": "/assets/favicon_1756698754800.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756698783874_j9n2kpr03",
+              "title": "CROSS Customs Rulings Online Search System",
+              "href": "https://rulings.cbp.gov/home",
+              "description": "",
+              "icon": "https://rulings.cbp.gov/favicon.ico?v=1.0",
+              "enabled": true
             }
           ]
         },
