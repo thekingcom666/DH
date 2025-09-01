@@ -198,6 +198,14 @@
               "description": "访问 mybill.dhl.com",
               "icon": "/assets/favicon_1756696620501.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696729975_x9t75rpyp",
+              "title": "DHL支付码支付",
+              "href": "https://www.5idhl.com/#/queryService/payImportTaxes",
+              "description": "DHL国际快递通过遍布全球超过220个国家的物流网络，提供文件和包裹国际限时快递服务，助力我们的客户在全球范围内不断扩大业务，进而推动全球贸易的发展",
+              "icon": "/assets/favicon_1756696712545.ico",
+              "enabled": true
             }
           ]
         },
