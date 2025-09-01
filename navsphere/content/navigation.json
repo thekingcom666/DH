@@ -457,6 +457,14 @@
               "description": "访问 www.kjwlbxs.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kjwlbxs.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756697849441_nszm88quw",
+              "title": "M123",
+              "href": "https://www.m123.com/",
+              "description": "访问 www.m123.com",
+              "icon": "/assets/favicon_1756697843726.png",
+              "enabled": true
             }
           ]
         }
