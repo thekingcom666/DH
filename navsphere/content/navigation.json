@@ -511,6 +511,14 @@
               "description": "",
               "icon": "/assets/favicon_1756698971064.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756698999448_9tkuoosr1",
+              "title": "加拿大关税",
+              "href": "http://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/",
+              "description": "The tariff files help importers classify goods. A tariff classification is necessary to import goods into Canada.",
+              "icon": "/assets/favicon_1756698991451.ico",
+              "enabled": true
             }
           ]
         },
