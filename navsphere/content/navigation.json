@@ -111,6 +111,14 @@
               "description": "17TRACK 全球物流查询平台，覆盖世界上大多数国家，提供功能先进的国际快递，邮政包裹查询跟踪服务，包括全球邮政包裹、国际包裹、国际快递、TNT、UPS、DHL、FEDEX、GLS、ARAMEX等。",
               "icon": "/assets/favicon_1756692411101.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756692440006_4jmw5eobe",
+              "title": "51tracking",
+              "href": "https://www.51tracking.com/remote_area",
+              "description": "访问 www.51tracking.com",
+              "icon": "/assets/favicon_1756692434210.png",
+              "enabled": true
             }
           ]
         }
