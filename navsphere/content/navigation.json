@@ -375,6 +375,14 @@
               "description": "访问 www.guanwuxiaoer.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.guanwuxiaoer.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756698609536_ercprz0of",
+              "title": "中国海关编码",
+              "href": "http://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html",
+              "description": "访问 online.customs.gov.cn",
+              "icon": "/assets/favicon_1756698600212.png",
+              "enabled": true
             }
           ]
         },
