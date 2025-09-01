@@ -351,6 +351,14 @@
               "description": "访问 hs.e-to-china.com.cn",
               "icon": "/assets/favicon_1756698497178.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698528465_k6mncvlc4",
+              "title": "海关HS编码查询系统",
+              "href": "https://www.i5a6.com/",
+              "description": "2025海关,,hscode,hs编码,hscode编码查询,hs编码查询,hs code查询,hs code海关编码,申报要素",
+              "icon": "/assets/favicon_1756698516788.png",
+              "enabled": true
             }
           ]
         },
