@@ -359,6 +359,14 @@
               "description": "2025海关,,hscode,hs编码,hscode编码查询,hs编码查询,hs code查询,hs code海关编码,申报要素",
               "icon": "/assets/favicon_1756698516788.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698549685_vgex79dkp",
+              "title": "海关编码查询",
+              "href": "https://www.5688.cn/hscode/",
+              "description": "访问 www.5688.cn",
+              "icon": "/assets/favicon_1756698537481.png",
+              "enabled": true
             }
           ]
         },
