@@ -479,6 +479,14 @@
               "description": "To view a Correlation of Harmonized Tariff Schedule (HTS) numbers with a specific textile or apparel category number, click on the specific category.",
               "icon": "/assets/favicon_1756698870253.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756698914663_s5abc19lc",
+              "title": "欧盟关税",
+              "href": "https://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?MeasText=&Lang=en&StartPub=&",
+              "description": "DDS2-TARIC Application page",
+              "icon": "/assets/favicon_1756698906617.png",
+              "enabled": true
             }
           ]
         },
