@@ -423,6 +423,14 @@
               "description": "访问 www.dsec.gov.mo",
               "icon": "/assets/favicon_1756698718582.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698744912_7ebfc2uov",
+              "title": "美国海关编码",
+              "href": "https://rulings.cbp.gov/home",
+              "description": "",
+              "icon": "https://rulings.cbp.gov/favicon.ico?v=1.0",
+              "enabled": true
             }
           ]
         },
