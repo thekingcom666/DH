@@ -431,6 +431,14 @@
               "description": "",
               "icon": "https://rulings.cbp.gov/favicon.ico?v=1.0",
               "enabled": true
+            },
+            {
+              "id": "site_1756698763443_xthq1bykb",
+              "title": "美国关税",
+              "href": "https://hts.usitc.gov/",
+              "description": "",
+              "icon": "/assets/favicon_1756698754800.ico",
+              "enabled": true
             }
           ]
         },
