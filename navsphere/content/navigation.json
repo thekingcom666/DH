@@ -271,6 +271,14 @@
               "description": "",
               "icon": "/assets/favicon_1756698089972.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756698139281_nby8wluwo",
+              "title": "国家税务总局",
+              "href": "https://www.chinatax.gov.cn/",
+              "description": "访问 www.chinatax.gov.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.chinatax.gov.cn",
+              "enabled": true
             }
           ]
         },
