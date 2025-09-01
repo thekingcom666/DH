@@ -303,6 +303,14 @@
               "description": "Find a postal code for an address in Canada. Look up postal codes online.",
               "icon": "/assets/favicon_1756696955772.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756696983425_59qrbm06f",
+              "title": "世界邮编",
+              "href": "https://worldpostalcode.com/",
+              "description": "Use our postal code lookup for every country around the world. Complete list of zip codes and all administrative divisions for countries.",
+              "icon": "/assets/favicon_1756696975072.png",
+              "enabled": true
             }
           ]
         }
