@@ -336,6 +336,14 @@
               "description": "访问 www.safe.gov.cn",
               "icon": "/assets/favicon_1756697233841.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697294149_zo65p75g8",
+              "title": "实时汇率",
+              "href": "https://www.boc.cn/sourcedb/whpj/",
+              "description": "访问 www.boc.cn",
+              "icon": "/assets/favicon_1756697279346.png",
+              "enabled": true
             }
           ]
         }
