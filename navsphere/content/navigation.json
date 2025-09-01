@@ -126,6 +126,14 @@
               "description": "了解您的货件在 中国 可能收取的附加费。",
               "icon": "/assets/favicon_1756692549180.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756692569842_cijg7aej0",
+              "title": "寄件成本和费率 | UPS - 中国大陆",
+              "href": "https://www.ups.com/cn/zh/support/shipping-support/shipping-costs-rates.page",
+              "description": "使用此页面作为指南，了解您可用的 UPS 运费、运费价格和交货时间。",
+              "icon": "/assets/favicon_1756692565727.png",
+              "enabled": true
             }
           ]
         },
