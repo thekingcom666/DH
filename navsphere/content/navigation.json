@@ -487,6 +487,14 @@
               "description": "DDS2-TARIC Application page",
               "icon": "/assets/favicon_1756698906617.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698940585_rrbx9cw5n",
+              "title": "VAT号码验证",
+              "href": "https://ec.europa.eu/taxation_customs/vies/#/vat-validation",
+              "description": "",
+              "icon": "/assets/favicon_1756698924643.ico",
+              "enabled": true
             }
           ]
         },
