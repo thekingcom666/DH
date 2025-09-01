@@ -110,6 +110,14 @@
               "description": "了解 中国 需收取的燃油附加费、增强安全性费用和任何其他托运附加费。",
               "icon": "/assets/favicon_1756692511998.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756692534034_fbk4afdey",
+              "title": "5idhl",
+              "href": "https://www.5idhl.com/#/createExpress/ServiceArea",
+              "description": "访问 www.5idhl.com",
+              "icon": "/assets/favicon_1756692529095.png",
+              "enabled": true
             }
           ]
         },
