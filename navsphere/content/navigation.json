@@ -86,6 +86,14 @@
               "description": "访问 wap-asia.fedex.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=wap-asia.fedex.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756692482118_7ajk7y5g7",
+              "title": "可选服务，额外服务，预约取件以及派送",
+              "href": "https://mydhlplus.dhl.com/cn/zh/ship/surcharges.html#/fuel_surcharge",
+              "description": "",
+              "icon": "/assets/favicon_1756692475671.gif",
+              "enabled": true
             }
           ]
         },
