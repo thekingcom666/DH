@@ -892,6 +892,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756691703962",
+      "title": "国际物流",
+      "icon": "Globe",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
