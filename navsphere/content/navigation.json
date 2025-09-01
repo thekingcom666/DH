@@ -327,6 +327,14 @@
               "description": "访问 tradedoc.mofcom.gov.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tradedoc.mofcom.gov.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1756698330139_iusgkbg9z",
+              "title": "电子口岸业务系统",
+              "href": "https://e.chinaport.gov.cn/",
+              "description": "访问 e.chinaport.gov.cn",
+              "icon": "/assets/favicon_1756698313816.png",
+              "enabled": true
             }
           ]
         },
