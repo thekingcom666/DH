@@ -166,6 +166,14 @@
               "description": "You can schedule a one-time pickup, set up a recurring pickup, or find a convenient drop-off location. Whatever works for you.",
               "icon": "/assets/favicon_1756696455008.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696495153_u8siyxu2n",
+              "title": "FEDEX服务网点",
+              "href": "https://local.fedex.com/en",
+              "description": "Select your location or search to find FedEx locations near you to help with all your shipping needs.",
+              "icon": "/assets/favicon_1756696479428.ico",
+              "enabled": true
             }
           ]
         },
