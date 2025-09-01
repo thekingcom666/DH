@@ -16,14 +16,6 @@
           "enabled": true
         },
         {
-          "id": "site_1756691832194_6elflp6nx",
-          "title": "Apps",
-          "href": "https://apps.dhl.com.hk/big5_fi/",
-          "description": "访问 apps.dhl.com.hk",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=apps.dhl.com.hk",
-          "enabled": true
-        },
-        {
           "id": "site_1756691850703_mcgkc4fa0",
           "title": "DCT",
           "href": "https://dct.dhl.com/",
@@ -70,6 +62,14 @@
               "href": "https://mydhl.express.dhl/gb/en/tracking.html#/track-by-number",
               "description": "Track DHL Express shipments, view delivery status and proof of delivery. Login to monitor shipments and send and receive notifications. Track with MyDHL+",
               "icon": "/assets/favicon_1756691758607.gif",
+              "enabled": true
+            },
+            {
+              "id": "site_1756691832194_6elflp6nx",
+              "title": "Apps",
+              "href": "https://apps.dhl.com.hk/big5_fi/",
+              "description": "访问 apps.dhl.com.hk",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=apps.dhl.com.hk",
               "enabled": true
             }
           ]
