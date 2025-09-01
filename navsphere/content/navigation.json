@@ -481,6 +481,14 @@
               "description": "访问 www.amz123.com",
               "icon": "/assets/favicon_1756697882496.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697910386_0twsqtpyc",
+              "title": "亚马逊SPN",
+              "href": "https://dev.spn.globalsellingcommunity.cn/discover",
+              "description": "访问 dev.spn.globalsellingcommunity.cn",
+              "icon": "/assets/favicon_1756697900344.png",
+              "enabled": true
             }
           ]
         }
