@@ -399,6 +399,14 @@
               "description": "访问 www.censtatd.gov.hk",
               "icon": "/assets/favicon_1756698660215.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698689384_qmntxvvzq",
+              "title": "香港海关",
+              "href": "https://www.customs.gov.hk/sc/home/index.html",
+              "description": "访问 www.customs.gov.hk",
+              "icon": "/assets/favicon_1756698681373.png",
+              "enabled": true
             }
           ]
         },
