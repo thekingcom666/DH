@@ -409,6 +409,14 @@
               "description": "访问 www.jiufanglogistics.cn",
               "icon": "/assets/favicon_1756697677553.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697715611_a3lef6pvk",
+              "title": "亚马逊仓库地址",
+              "href": "https://www.seabaycargo.com/amazon-warehouse/",
+              "description": "访问 www.seabaycargo.com",
+              "icon": "/assets/favicon_1756697704576.png",
+              "enabled": true
             }
           ]
         }
