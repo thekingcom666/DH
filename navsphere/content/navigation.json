@@ -247,7 +247,16 @@
           "icon": "Database",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756698044214_mfqx3l9ab",
+              "title": "中国知识产权",
+              "href": "http://202.127.48.145:8888/zscq/search/jsp/vBrandSearchIndex.jsp",
+              "description": "访问 202.127.48.145",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=202.127.48.145",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "bf73e1cd-b85f-44ee-b4d7-c487ec6be64d",
