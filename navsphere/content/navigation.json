@@ -54,6 +54,14 @@
           "description": "使用全球值得信赖的大型寄件和物流公司 UPS 运送和追踪国内和国际货件。",
           "icon": "/assets/favicon_1756691877907.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756691899235_mekrnhas7",
+          "title": "UPS Flight Information System",
+          "href": "http://upsfd.ecfreight.net/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=upsfd.ecfreight.net",
+          "enabled": true
         }
       ],
       "subCategories": []
