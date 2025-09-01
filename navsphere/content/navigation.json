@@ -80,6 +80,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "bf73e1cd-b85f-44ee-b4d7-c487ec6be64d",
+          "title": "国际物流",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
