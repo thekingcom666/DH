@@ -378,6 +378,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "fcfcc9a3-3bfa-4d99-8074-f1f64bb828d7",
+          "title": "跨境电商",
+          "icon": "Building",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
