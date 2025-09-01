@@ -295,6 +295,14 @@
               "description": "",
               "icon": "/assets/favicon_1756698189488.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698221234_0vnmdlrf3",
+              "title": "通关状态",
+              "href": "http://online.customs.gov.cn/static/pages/mySearch.html",
+              "description": "访问 online.customs.gov.cn",
+              "icon": "/assets/favicon_1756698211077.png",
+              "enabled": true
             }
           ]
         },
