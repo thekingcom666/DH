@@ -393,6 +393,14 @@
               "description": "访问 01234567.feishu.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=01234567.feishu.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1756697665147_91welvdxq",
+              "title": "万花筒跨境",
+              "href": "https://www.wahuto.com/",
+              "description": "访问 www.wahuto.com",
+              "icon": "/assets/favicon_1756697655243.png",
+              "enabled": true
             }
           ]
         }
