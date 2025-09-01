@@ -519,6 +519,14 @@
               "description": "The tariff files help importers classify goods. A tariff classification is necessary to import goods into Canada.",
               "icon": "/assets/favicon_1756698991451.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756699023626_zgxlwhoi1",
+              "title": "CARM",
+              "href": "https://ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca/en/homepage",
+              "description": "",
+              "icon": "https://ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca/assets/themes-dist-10.5.2-gcweb/GCWeb/assets/favicon.ico",
+              "enabled": true
             }
           ]
         },
