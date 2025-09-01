@@ -287,6 +287,14 @@
               "description": "Lookup, verify, parse, &amp; standardize addresses for USPS, UPS, FedEx, &amp; data cleansing. Provides address verification or address validation services worldwide.",
               "icon": "/assets/favicon_1756696905052.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756696941783_wrb085x36",
+              "title": "美国城市邮编",
+              "href": "https://www.unitedstateszipcodes.org/",
+              "description": "访问 www.unitedstateszipcodes.org",
+              "icon": "/assets/favicon_1756696930727.png",
+              "enabled": true
             }
           ]
         }
