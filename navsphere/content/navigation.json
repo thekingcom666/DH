@@ -471,6 +471,14 @@
               "description": "访问 www.commerce.gov",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.commerce.gov",
               "enabled": true
+            },
+            {
+              "id": "site_1756698895993_iz3a8dsf2",
+              "title": "U.S. Textile and Apparel Correlation",
+              "href": "https://www.trade.gov/data-visualization/us-textile-and-apparel-correlation",
+              "description": "To view a Correlation of Harmonized Tariff Schedule (HTS) numbers with a specific textile or apparel category number, click on the specific category.",
+              "icon": "/assets/favicon_1756698870253.ico",
+              "enabled": true
             }
           ]
         },
