@@ -368,6 +368,14 @@
               "description": "访问 www.e-services.cr.gov.hk",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.e-services.cr.gov.hk",
               "enabled": true
+            },
+            {
+              "id": "site_1756697400779_daj2l0mwh",
+              "title": "HK公司名单",
+              "href": "https://hkg.databasesets.com/zh-hant",
+              "description": "這是來自香港政府開放數據的資料，提供香港新成立/註冊及已更改名稱的公司名單，包括每個公司的注冊代碼、英文名稱、中文名稱、注冊日期、改名日期等內容；您還可以付費購買公司的詳細資訊。",
+              "icon": "/assets/favicon_1756697391072.ico",
+              "enabled": true
             }
           ]
         }
