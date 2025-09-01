@@ -344,6 +344,14 @@
               "description": "访问 www.boc.cn",
               "icon": "/assets/favicon_1756697279346.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697314752_lnawlk6y6",
+              "title": "印章",
+              "href": "https://33tool.com/seal/",
+              "description": "访问 33tool.com",
+              "icon": "/assets/favicon_1756697306169.png",
+              "enabled": true
             }
           ]
         }
