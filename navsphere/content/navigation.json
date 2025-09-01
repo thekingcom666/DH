@@ -328,7 +328,16 @@
           "icon": "Zap",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756697264614_8n2qwbprs",
+              "title": "人民币汇率中间价",
+              "href": "http://www.safe.gov.cn/safe/rmbhlzjj/index.html",
+              "description": "访问 www.safe.gov.cn",
+              "icon": "/assets/favicon_1756697233841.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
