@@ -497,6 +497,14 @@
               "description": "查找有关&ldquo;我要开店&rdquo;问题的答案，并与其他卖家协作。",
               "icon": "/assets/favicon_1756697920600.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697945542_mnbm38hpr",
+              "title": "卖家大学",
+              "href": "https://sell.amazon.com/",
+              "description": "准备好成为亚马逊卖家了吗？ 了解如何吸引数百万买家、借助亚马逊发展您的电商业务以及持续盈利",
+              "icon": "/assets/favicon_1756697936780.ico",
+              "enabled": true
             }
           ]
         }
