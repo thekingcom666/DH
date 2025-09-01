@@ -455,6 +455,14 @@
               "description": "访问 uscensus.prod.3ceonline.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=uscensus.prod.3ceonline.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756698822307_l0yazimul",
+              "title": "CBP",
+              "href": "https://www.cbp.gov/",
+              "description": "U.S. Customs and Border Protection: Protecting the American people, safeguarding our borders and enhancing the nation’s economic prosperity.",
+              "icon": "/assets/favicon_1756698814926.png",
+              "enabled": true
             }
           ]
         },
