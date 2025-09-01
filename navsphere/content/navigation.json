@@ -230,6 +230,14 @@
               "description": "",
               "icon": "/assets/favicon_1756696807975.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696863322_pcbxdwami",
+              "title": "FEDEX PaymentPortal",
+              "href": "https://www.fedex.com/paynow/payment",
+              "description": "",
+              "icon": "/assets/favicon_1756696832785.png",
+              "enabled": true
             }
           ]
         },
