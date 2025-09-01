@@ -118,6 +118,14 @@
               "description": "访问 www.5idhl.com",
               "icon": "/assets/favicon_1756692529095.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756692555269_3gzzl69v5",
+              "title": "其他附加费  | FedEx 中国",
+              "href": "https://www.fedex.com/zh-cn/shipping/surcharges/other-surcharges.html",
+              "description": "了解您的货件在 中国 可能收取的附加费。",
+              "icon": "/assets/favicon_1756692549180.ico",
+              "enabled": true
             }
           ]
         },
