@@ -415,6 +415,14 @@
               "description": "访问 www.customs.gov.mo",
               "icon": "/assets/favicon_1756698699738.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698727540_8k4mk4t98",
+              "title": "澳门海关编码",
+              "href": "https://www.dsec.gov.mo/EMTS.aspx?lang=zh-MO",
+              "description": "访问 www.dsec.gov.mo",
+              "icon": "/assets/favicon_1756698718582.png",
+              "enabled": true
             }
           ]
         },
