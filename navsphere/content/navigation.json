@@ -279,6 +279,14 @@
               "description": "访问 www.chinatax.gov.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.chinatax.gov.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1756698175116_huvhpkapw",
+              "title": "单一窗口",
+              "href": "https://swapp.singlewindow.cn/qspserver/sw/qsp/query/view/major",
+              "description": "访问 swapp.singlewindow.cn",
+              "icon": "/assets/favicon_1756698158293.png",
+              "enabled": true
             }
           ]
         },
