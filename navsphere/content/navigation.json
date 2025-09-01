@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "site_1756691850703_mcgkc4fa0",
-          "title": "DCT",
-          "href": "https://dct.dhl.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dct.dhl.com",
-          "enabled": true
-        },
-        {
           "id": "site_1756691864431_ovqm4ovz1",
           "title": "Ship a parcel, shipping rates, tracking, courier pickup with DHL Express | United States of America",
           "href": "https://mydhl.express.dhl/us/en/home.html#/createNewShipmentTab",
@@ -70,6 +62,14 @@
               "href": "https://www.5idhl.com/",
               "description": "访问 www.5idhl.com",
               "icon": "/assets/favicon_1756691809252.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756691850703_mcgkc4fa0",
+              "title": "DCT",
+              "href": "https://dct.dhl.com/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=dct.dhl.com",
               "enabled": true
             }
           ]
