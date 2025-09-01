@@ -513,6 +513,14 @@
               "description": "访问 www.ennews.com",
               "icon": "/assets/favicon_1756697956738.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697990270_2qav8z6gw",
+              "title": "全球开店",
+              "href": "https://gs.amazon.cn/",
+              "description": "亚马逊全球开店旨在借助亚马逊全球资源，帮助中国卖家抓住跨境电商新机遇，发展出口业务。目前，已向中国卖家开放20个海外站点，能将商品配送至全球200多个国家和地区，为您链接数亿活跃用户及600万+的企业机构买家。更多开店注册信息请关注亚马逊全球开店官网。",
+              "icon": "/assets/favicon_1756697980238.ico",
+              "enabled": true
             }
           ]
         }
