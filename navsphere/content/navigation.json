@@ -255,6 +255,14 @@
               "description": "访问 202.127.48.145",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=202.127.48.145",
               "enabled": true
+            },
+            {
+              "id": "site_1756698067359_v0zgzphvv",
+              "title": "美国知识产权",
+              "href": "https://iprs.cbp.gov/s/",
+              "description": "",
+              "icon": "/assets/favicon_1756698056450.png",
+              "enabled": true
             }
           ]
         },
