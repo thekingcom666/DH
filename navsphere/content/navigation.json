@@ -343,6 +343,14 @@
               "description": "",
               "icon": "/assets/favicon_1756698339458.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756698507164_s76mjev58",
+              "title": "归类通",
+              "href": "https://hs.e-to-china.com.cn/?type=ks",
+              "description": "访问 hs.e-to-china.com.cn",
+              "icon": "/assets/favicon_1756698497178.png",
+              "enabled": true
             }
           ]
         },
