@@ -360,6 +360,14 @@
               "description": "访问 www.aigei.com",
               "icon": "/assets/favicon_1756697327146.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697382611_vytn8s504",
+              "title": "HK注册公司查询",
+              "href": "https://www.e-services.cr.gov.hk/ICRIS3EP/system/dashboard/e-search.do",
+              "description": "访问 www.e-services.cr.gov.hk",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.e-services.cr.gov.hk",
+              "enabled": true
             }
           ]
         }
