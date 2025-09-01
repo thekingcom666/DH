@@ -417,6 +417,14 @@
               "description": "访问 www.seabaycargo.com",
               "icon": "/assets/favicon_1756697704576.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697734805_cehnrw6ll",
+              "title": "亚马逊仓库地址",
+              "href": "https://fba-finder.com/",
+              "description": "FBA finder website, a search tool for Amazon fulfillment center codes",
+              "icon": "/assets/favicon_1756697725029.ico",
+              "enabled": true
             }
           ]
         }
