@@ -433,6 +433,14 @@
               "description": "访问 wearesellers.com",
               "icon": "/assets/favicon_1756697755997.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697790341_u8ccebisn",
+              "title": "雨果跨境",
+              "href": "https://www.cifnews.com/",
+              "description": "访问 www.cifnews.com",
+              "icon": "/assets/favicon_1756697775685.png",
+              "enabled": true
             }
           ]
         }
