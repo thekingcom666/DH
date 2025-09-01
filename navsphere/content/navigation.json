@@ -352,6 +352,14 @@
               "description": "访问 33tool.com",
               "icon": "/assets/favicon_1756697306169.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697335759_85jejplmd",
+              "title": "印章透明",
+              "href": "https://www.aigei.com/bgremover",
+              "description": "访问 www.aigei.com",
+              "icon": "/assets/favicon_1756697327146.png",
+              "enabled": true
             }
           ]
         }
