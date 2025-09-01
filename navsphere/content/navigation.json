@@ -150,6 +150,14 @@
               "description": "",
               "icon": "/assets/favicon_1756696395958.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756696438500_2n6l3l9vd",
+              "title": "UPS美国服务网点",
+              "href": "https://locations.ups.com/us/en/",
+              "description": "",
+              "icon": "/assets/favicon_1756696424363.ico",
+              "enabled": true
             }
           ]
         },
