@@ -503,6 +503,14 @@
               "description": "DDS2-EO Application page",
               "icon": "/assets/favicon_1756698948064.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1756698980893_e84xcq1ln",
+              "title": "英国关税查询",
+              "href": "https://www.trade-tariff.service.gov.uk/find_commodity",
+              "description": "",
+              "icon": "/assets/favicon_1756698971064.ico",
+              "enabled": true
             }
           ]
         },
