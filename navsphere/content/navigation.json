@@ -449,6 +449,14 @@
               "description": "访问 bbs.ichuanglan.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=bbs.ichuanglan.com",
               "enabled": true
+            },
+            {
+              "id": "site_1756697831251_4fnyjlqfe",
+              "title": "百晓网",
+              "href": "https://www.kjwlbxs.com/",
+              "description": "访问 www.kjwlbxs.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.kjwlbxs.com",
+              "enabled": true
             }
           ]
         }
