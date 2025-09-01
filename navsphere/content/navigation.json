@@ -447,6 +447,14 @@
               "description": "",
               "icon": "https://rulings.cbp.gov/favicon.ico?v=1.0",
               "enabled": true
+            },
+            {
+              "id": "site_1756698800619_qq71mhgaq",
+              "title": "美国关税",
+              "href": "https://uscensus.prod.3ceonline.com/",
+              "description": "访问 uscensus.prod.3ceonline.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=uscensus.prod.3ceonline.com",
+              "enabled": true
             }
           ]
         },
