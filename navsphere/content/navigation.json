@@ -182,6 +182,14 @@
               "description": "&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #FFCC00; font-size: 32px;&quot;&gt;DHL EXPRESS&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;color: #FFCC00; font-size: 32px;&quot;&gt;&lt;strong&gt;ON DEMAND DELIVERY&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;定制化派送服务。&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;免费管理您的快件送达时间、地点和方式！可从多达六种便捷的派送选项中任选其一。&lt;/span&gt;&lt;/p&gt;",
               "icon": "/assets/favicon_1756696542836.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696602398_h515flusi",
+              "title": "DHL payment",
+              "href": "https://ebilling.dhl.com/gpp/lookup/country_selection/?error=unsupported_country",
+              "description": "访问 ebilling.dhl.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ebilling.dhl.com",
+              "enabled": true
             }
           ]
         },
