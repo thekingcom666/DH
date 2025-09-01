@@ -22,6 +22,14 @@
           "description": "访问 www.5idhl.com",
           "icon": "/assets/favicon_1756691809252.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756691832194_6elflp6nx",
+          "title": "Apps",
+          "href": "https://apps.dhl.com.hk/big5_fi/",
+          "description": "访问 apps.dhl.com.hk",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=apps.dhl.com.hk",
+          "enabled": true
         }
       ],
       "subCategories": []
