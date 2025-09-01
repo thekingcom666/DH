@@ -295,6 +295,14 @@
               "description": "访问 www.unitedstateszipcodes.org",
               "icon": "/assets/favicon_1756696930727.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696964712_2zutt7qjw",
+              "title": "加拿大邮编",
+              "href": "https://www.canadapost-postescanada.ca/cpc/en/tools/find-a-postal-code.page",
+              "description": "Find a postal code for an address in Canada. Look up postal codes online.",
+              "icon": "/assets/favicon_1756696955772.ico",
+              "enabled": true
             }
           ]
         }
