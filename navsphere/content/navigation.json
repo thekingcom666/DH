@@ -385,7 +385,16 @@
           "icon": "Building",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1756697643833_9scwcq15d",
+              "title": "欧洲开店知识库",
+              "href": "https://01234567.feishu.cn/wiki/AjBqwyp5yisP60kvNGAchQtSn7b",
+              "description": "访问 01234567.feishu.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=01234567.feishu.cn",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
