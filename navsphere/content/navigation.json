@@ -6,16 +6,7 @@
       "icon": "Globe",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1756691899235_mekrnhas7",
-          "title": "UPS Flight Information System",
-          "href": "http://upsfd.ecfreight.net/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=upsfd.ecfreight.net",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "577d0238-5750-4554-8893-0a3dc4e3ef4c",
@@ -70,6 +61,14 @@
               "href": "https://www.ups.com/cn/zh/Home.page?",
               "description": "使用全球值得信赖的大型寄件和物流公司 UPS 运送和追踪国内和国际货件。",
               "icon": "/assets/favicon_1756691877907.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1756691899235_mekrnhas7",
+              "title": "UPS Flight Information System",
+              "href": "http://upsfd.ecfreight.net/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=upsfd.ecfreight.net",
               "enabled": true
             }
           ]
