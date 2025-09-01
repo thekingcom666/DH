@@ -222,6 +222,14 @@
               "description": "The UPS Billing Centre allows you to view invoices, manage payment methods and pay your bills for existing shipping accounts.",
               "icon": "/assets/favicon_1756696776213.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756696819710_rgtikormd",
+              "title": "FEDEX在线支付税金",
+              "href": "https://www.fedex.com/payment/",
+              "description": "",
+              "icon": "/assets/favicon_1756696807975.png",
+              "enabled": true
             }
           ]
         },
