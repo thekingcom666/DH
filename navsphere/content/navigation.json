@@ -64,7 +64,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "577d0238-5750-4554-8893-0a3dc4e3ef4c",
+          "title": "国际快递",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
