@@ -401,6 +401,14 @@
               "description": "访问 www.wahuto.com",
               "icon": "/assets/favicon_1756697655243.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756697692476_qnkzsl4rr",
+              "title": "亚马逊仓库分布图",
+              "href": "http://www.jiufanglogistics.cn/channel/1/fbackfbt",
+              "description": "访问 www.jiufanglogistics.cn",
+              "icon": "/assets/favicon_1756697677553.png",
+              "enabled": true
             }
           ]
         }
