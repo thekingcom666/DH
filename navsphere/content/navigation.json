@@ -319,6 +319,14 @@
               "description": "访问 hscode.macld.com",
               "icon": "/assets/favicon_1756698259466.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698300355_ytk6q4v4x",
+              "title": "贸易单证指南",
+              "href": "http://tradedoc.mofcom.gov.cn/TradeDoc/do/dz/tradedoc~1000_1000~0.html",
+              "description": "访问 tradedoc.mofcom.gov.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tradedoc.mofcom.gov.cn",
+              "enabled": true
             }
           ]
         },
