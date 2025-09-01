@@ -335,6 +335,14 @@
               "description": "访问 e.chinaport.gov.cn",
               "icon": "/assets/favicon_1756698313816.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698348189_crjgk29uu",
+              "title": "UL查询",
+              "href": "https://productiq.ulprospector.com/zh-cn/search?term",
+              "description": "",
+              "icon": "/assets/favicon_1756698339458.ico",
+              "enabled": true
             }
           ]
         },
