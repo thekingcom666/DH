@@ -70,6 +70,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=upsfd.ecfreight.net",
               "enabled": true
+            },
+            {
+              "id": "site_1756692366462_kzszsqaqq",
+              "title": "Track &amp; Ship Online or Find Nearby Locations | FedEx",
+              "href": "https://www.fedex.com/en-us/home.html",
+              "description": "Use the Fedex.com site to login to your FedEx account, get your tracking status, find a FedEx near you, learn more about how to become a better shipper, get online print offers, or get inspiration for your small business needs.",
+              "icon": "/assets/favicon_1756692358305.ico",
+              "enabled": true
             }
           ]
         },
