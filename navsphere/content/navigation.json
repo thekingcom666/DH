@@ -383,6 +383,14 @@
               "description": "访问 online.customs.gov.cn",
               "icon": "/assets/favicon_1756698600212.png",
               "enabled": true
+            },
+            {
+              "id": "site_1756698649244_r8mao52js",
+              "title": "世界海关编码",
+              "href": "https://www.tradeatlas.com/cn",
+              "description": "利用全球贸易数据和分析来发展您的业务。利用 TradeAtlas 全面的全球贸易数据库探索国际市场!",
+              "icon": "/assets/favicon_1756698619945.png",
+              "enabled": true
             }
           ]
         },
