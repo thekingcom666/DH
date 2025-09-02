@@ -525,7 +525,7 @@
               "title": "CARM",
               "href": "https://ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca/en/homepage",
               "description": "",
-              "icon": "https://ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca/assets/themes-dist-10.5.2-gcweb/GCWeb/assets/favicon.ico",
+              "icon": "/assets/favicon_1756698991451.ico",
               "enabled": true
             }
           ]
