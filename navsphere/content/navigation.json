@@ -188,7 +188,7 @@
               "title": "DHL payment",
               "href": "https://ebilling.dhl.com/gpp/lookup/country_selection/?error=unsupported_country",
               "description": "访问 ebilling.dhl.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ebilling.dhl.com",
+              "icon": "/assets/favicon_1756691758607.gif",
               "enabled": true
             },
             {
