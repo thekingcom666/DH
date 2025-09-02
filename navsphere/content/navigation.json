@@ -261,7 +261,7 @@
               "title": "美国知识产权",
               "href": "https://iprs.cbp.gov/s/",
               "description": "",
-              "icon": "/assets/favicon_1756698056450.png",
+              "icon": "https://iprs.cbp.gov/favicon.ico",
               "enabled": true
             },
             {
